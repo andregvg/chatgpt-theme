@@ -21,7 +21,7 @@
       {
         "label": "ChatGPT Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/ChatGPT-dark-color-theme.json"
+        "path": "./themes/chatgpt-dark-color-theme.json"
       }
     ]
   }
