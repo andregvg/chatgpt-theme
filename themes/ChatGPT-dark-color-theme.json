@@ -1,5 +1,5 @@
 {
-  "name": "ChatGPT Theme",
+  "name": "ChatGPT Theme for Visual Studio Code",
   "colors": {
     "editor.background": "#171717",
     "editor.foreground": "#eeffff",
