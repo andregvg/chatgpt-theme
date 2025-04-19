@@ -4,12 +4,14 @@
     "editor.background": "#171717",
     "editor.foreground": "#eeffff",
     "activityBarBadge.background": "#007acc",
-    "sideBarTitle.foreground": "#bbbbbb"
+    "sideBarTitle.foreground": "#bbbbbb",
   },
   "tokenColors": [
     // JSON Colors Scopes
     {
-      "scope": ["punctuation.separator.dictionary.key-value.json"],
+      "scope": [
+        "punctuation.separator.dictionary.key-value.json"
+      ],
       "settings": {
         "foreground": "#e6e6e6"
       }
@@ -35,20 +37,27 @@
       }
     },
     {
-      "scope": ["constant.language.json"],
+      "scope": [
+        "constant.language.json"
+      ],
       "settings": {
         "foreground": "#2e95d3"
       }
     },
     {
-      "scope": ["constant.numeric.json"],
+      "scope": [
+        "constant.numeric.json"
+      ],
       "settings": {
         "foreground": "#ffd70a"
       }
     },
     {
       "name": "Comment",
-      "scope": ["comment", "punctuation.definition.comment"],
+      "scope": [
+        "comment",
+        "punctuation.definition.comment"
+      ],
       "settings": {
         "fontStyle": "italic",
         "foreground": "#546E7A"

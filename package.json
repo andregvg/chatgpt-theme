@@ -17,6 +17,12 @@
     "Themes"
   ],
   "contributes": {
+    "configurationDefaults": {
+      "editor.bracketPairColorization.enabled": false,
+      "editor.fontFamily": "'Source Code Pro', monospace",
+      "editor.fontSize": 14,
+      "editor.lineHeight": 22
+    },
     "themes": [
       {
         "label": "ChatGPT Dark Theme for Visual Studio Code",
