@@ -11,6 +11,11 @@ Todos os formatos seguem o padrão [SemVer](https://semver.org/lang/pt-BR/).
 ## [0.0.2] - 2025-04-19
 ### Adicionado
 - Pequenos ajustes no nome e descrição.
+- Atualização do README.
+
+## [0.0.2] - 2025-04-19
+### Adicionado
+- Pequenos ajustes no nome e descrição.
 - Atualização do README
 - Adição de imagem de exemplo para arquivos .JSON.
 - Definição de fonte padrão para o tema.
