@@ -1,8 +1,8 @@
 {
   "name": "chatgpt-vscode-theme",
-  "displayName": "chatgpt-vscode-theme",
+  "displayName": "Chatgpt Dark Theme",
   "description": "A dark theme inspired by ChatGPT code blocks, optimized for JSON, PHP, JavaScript, HTML, and CSS.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "icon": "images/icon.png",
   "publisher": "andregvg",
   "repository": {
@@ -19,7 +19,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "ChatGPT Theme for Visual Studio Code",
+        "label": "ChatGPT Dark Theme for Visual Studio Code",
         "uiTheme": "vs-dark",
         "path": "./themes/chatgpt-dark-color-theme.json"
       }
