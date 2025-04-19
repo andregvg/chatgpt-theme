@@ -1,16 +1,43 @@
-# chatgpt-theme README
+# ChatGPT Dark Theme for Visual Studio Code
 
-## Working with Markdown
+## 📦
+**ChatGPT Dark Theme** é um tema escuro para o Visual Studio Code inspirado na estética dos blocos de código exibidos pelo ChatGPT. O tema prioriza legibilidade e contraste, com cores otimizadas para diversas linguagens, incluindo JSON, PHP, JavaScript, HTML e CSS.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## ✨ Funcionalidades
+- Tema escuro moderno e limpo
+- Cores diferenciadas por linguagem (em expansão)
+- Suporte inicial completo para arquivos JSON
+- Estrutura em preparação para suportar PHP, JS, HTML e CSS
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## 🚀 Instalação
 
-## For more information
+### Pelo Marketplace
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+1. Acesse o [ChatGPT Theme no Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=andregvg.chatgpt-vscode-theme)
+2. Clique em **Install** ou pesquise "ChatGPT Dark Theme" na aba de extensões do VS Code
 
-**Enjoy!**
+## 🖼️ Capturas de Tela
+
+| JSON | PHP | JavaScript |
+|------|-----|------------|
+| ![JSON](images/json.png) | ![PHP](screenshots/php.png) | ![JS](screenshots/javascript.png) |
+
+| HTML | CSS |
+|------|-----|
+| ![HTML](screenshots/html.png) | ![CSS](screenshots/css.png) |
+
+## 🗑️ Remoção
+
+Para remover a extensão, execute:
+```bash
+code --uninstall-extension andregvg.chatgpt-vscode-theme
+```
+
+## 📄 Changelog
+
+Consulte o arquivo [CHANGELOG.md](./CHANGELOG.md) para ver as mudanças recentes.
+
+---
+
+Se você curtiu esse tema, dê uma ⭐ no [GitHub](https://github.com/andregvg/chatgpt-vscode-theme) e deixe uma avaliação no Marketplace.
+
