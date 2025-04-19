@@ -1,35 +1,9 @@
 {
-  "nome": "Tests",
-  "versao": 1.0,
-  "ativo": true,
-  "descricao": "Exemplo completo de JSON para testes de cores no VS Code",
-  "tags": ["visual", "theme", "json", "teste"],
-  "configuracoes": {
-    "resolucao": "1920x1080",
-    "tema": "escuro",
-    "notificacoes": false,
-    "volume": 75,
-    "atalhos": {
-      "salvar": "Ctrl+S",
-      "abrir": "Ctrl+O",
-      "fechar": "Alt+F4"
-    }
+  "name": "Test JSON",
+  "version": 1.0,
+  "settings": {
+    "theme": "ChatGPT Theme",
+    "enabled": true
   },
-  "usuarios": [
-    {
-      "id": 101,
-      "nome": "Alice",
-      "email": "alice@example.com",
-      "status": "ativo"
-    },
-    {
-      "id": 102,
-      "nome": "Bob",
-      "email": "bob@example.com",
-      "status": "inativo"
-    }
-  ],
-  "nullTest": null,
-  "regex": "^[a-zA-Z0-9]+@[a-zA-Z_]+?\\.[a-zA-Z]{2,3}$",
-  "jsonString": "{\"chave\": \"valor\", \"numero\": 123}"
+  "features": ["syntax highlighting", "auto-indent"]
 }
