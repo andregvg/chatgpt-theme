@@ -1,0 +1,21 @@
+{
+  "name": "chatgpt-theme",
+  "displayName": "chatgpt-theme",
+  "description": "A dark theme inspired by ChatGPT code blocks, optimized for JSON, PHP, JavaScript, HTML, and CSS.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ChatGPT Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ChatGPT-dark-color-theme.json"
+      }
+    ]
+  }
+}
